@@ -1,0 +1,7 @@
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\ASP.NET\building-api-aspdotnet-core\alyssa\CoreApiFundamentals\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.csproj.AssemblyReference.cache
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\ASP.NET\building-api-aspdotnet-core\alyssa\CoreApiFundamentals\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\ASP.NET\building-api-aspdotnet-core\alyssa\CoreApiFundamentals\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.AssemblyInfoInputs.cache
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\ASP.NET\building-api-aspdotnet-core\alyssa\CoreApiFundamentals\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.AssemblyInfo.cs
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\ASP.NET\building-api-aspdotnet-core\alyssa\CoreApiFundamentals\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.csproj.CoreCompileInputs.cache
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\ASP.NET\building-api-aspdotnet-core\alyssa\CoreApiFundamentals\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.RazorAssemblyInfo.cache
+C:\Users\Full Scale\Desktop\ALYSSA\Pluralsight Files\ASP.NET\building-api-aspdotnet-core\alyssa\CoreApiFundamentals\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.RazorAssemblyInfo.cs
